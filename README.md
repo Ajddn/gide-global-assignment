@@ -4,3 +4,7 @@
 * JWT_SECRET=secret or anything random
 * CLIENT_URL=http://localhost:3000 or any localhost port that you are using
 * PORT=8000
+
+
+also in frontend / context
+two files taskcontent.js and usercontent.js change the files serverurl to you deployed render url for connectiong frontend with backend
